@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c3p0-config>
+	<default-config>
+		<property name="jdbcUrl">jdbc:mysql://127.0.0.1:3306/cakeshop
+		</property>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="user">root</property>
+		<property name="password">LIANqq74148</property>
+	</default-config>
+</c3p0-config>
